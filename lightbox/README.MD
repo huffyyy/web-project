@@ -20,3 +20,6 @@ Galeri lightbox yang sederhana dan interaktif yang menampilkan Seven Summit Jawa
 
 - **HTML5** - Struktur markup.
 - **CSS3** - Penataan dengan animasi dan transisi.
+
+## 📚 Referensi
+- https://www.youtube.com/watch?v=AKMdpMtIYyg
