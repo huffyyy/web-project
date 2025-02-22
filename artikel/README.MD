@@ -19,3 +19,6 @@ Halaman web artikel sederhana yang dibuat menggunakan **HTML** dan **Positioning
 
 - **HTML5** - Untuk struktur konten.
 - **CSS3** - Penataan menggunakan `position: relative`, `absolute`, dan `fixed`.
+
+## 📚 Referensi
+https://www.youtube.com/watch?v=uS4MoynBCxc&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=16
