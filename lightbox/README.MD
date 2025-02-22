@@ -1,20 +1,19 @@
-# Lightbox Gallery - Seven Summits West Java
+# Galeri Lightbox - Seven Summit Jawa Barat
 
-A simple and interactive lightbox gallery showcasing the Seven Summits of West Java. Built using pure **HTML** and **CSS** with smooth **animations** and **transitions**.
+Galeri lightbox yang sederhana dan interaktif yang menampilkan Tujuh Puncak Jawa Barat. Dibangun menggunakan **HTML** dan **CSS** murni dengan **animasi** dan **transisi** yang halus.
 
 ## 📸 Features
 ![image](https://github.com/user-attachments/assets/a08298e3-cee4-4783-8585-685ae8584dea)
 ![image](https://github.com/user-attachments/assets/022d608e-f9d7-43e2-b80f-ac88a1c92a8b)
 ![image](https://github.com/user-attachments/assets/e5108fdc-6e41-4813-9a30-d7f2789963f1)
 
-- **Responsive Gallery**: Adapts to various screen sizes.
-- **Lightbox Effect**: Click on images to view in an overlay.
-- **Smooth Transitions**: Opening, closing, and navigating images with CSS animations.
-- **Navigation Controls**: Easily browse images using next/previous buttons.
-- **Close Button**: Exit the lightbox overlay smoothly.
+- **Galeri Responsif**: Beradaptasi dengan berbagai ukuran layar.
+- **Efek Kotak Cahaya**: Klik pada gambar untuk melihat dalam hamparan.
+- **Transisi Halus**: Membuka, menutup, dan menavigasi gambar dengan animasi CSS.
+- **Kontrol Navigasi**: Menelusuri gambar dengan mudah menggunakan tombol berikutnya/sebelumnya.
+- **Tombol Tutup**: Keluar dari hamparan lightbox dengan lancar.
 
-## 🚀 Technologies Used
+## 🚀 Teknologi yang Digunakan
 
-- **HTML5** – Markup structure.
-- **CSS3** – Styling with animations and transitions.
-
+- **HTML5** - Struktur markup.
+- **CSS3** - Penataan dengan animasi dan transisi.
