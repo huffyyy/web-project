@@ -1,5 +1,13 @@
-# 📄 Web project Login
+# 🔐 Web Project — Halaman Login
 
-Selamat datang di folder **login**! 🚀✨  
-Folder ini berisikan hasil implementasi dari belajar html dan css 
-Ini adalah tampilan halaman login pada website
+Ini adalah proyek sederhana halaman login menggunakan **HTML** dan **CSS**. Proyek ini dirancang untuk menunjukkan cara membuat form login yang responsif dan user-friendly.
+
+## 🖼️ Preview
+
+
+## 🛠️ Fitur  
+- Form login dengan field **Username** dan **Password**  
+- Tombol **Login** dengan efek 
+- Link **"Lupa Password?"**  
+- Desain responsif untuk berbagai ukuran layar  
+- Validasi sederhana menggunakan atribut HTML (`Placeholder`)  
