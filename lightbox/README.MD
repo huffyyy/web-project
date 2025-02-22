@@ -1,6 +1,6 @@
 # Galeri Lightbox - Seven Summit Jawa Barat
 
-Galeri lightbox yang sederhana dan interaktif yang menampilkan Tujuh Puncak Jawa Barat. Dibangun menggunakan **HTML** dan **CSS** murni dengan **animasi** dan **transisi** yang halus.
+Galeri lightbox yang sederhana dan interaktif yang menampilkan Seven Summit Jawa Barat. Dibangun menggunakan **HTML** dan **CSS** murni dengan **animasi** dan **transisi** yang halus.
 
 ## Preview
 
