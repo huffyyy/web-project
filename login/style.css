@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; 
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background : #FFDBDF;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    max-width: 850px;
+    background : #fff;
+    border-radius: 15px;
+    box-shadow: 0 0px 75px rgba(0, 0, 0, 0.222);
+}
+
+.login {
+    width: 400px;
+}
+
+form {
+    width: 250px;
+    margin: 60px auto;
+}
+
+h1 {
+    margin: 50px;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+hr {
+    border-top: 2px solid #FFDBDF;
+    width: 269px;
+}
+
+p {
+    text-align: center;
+    margin: 15px;
+}
+
+.right img {
+    width: 480px;
+    height: 100%;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+    
+}
+
+form label {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 5px;
+}
+
+input {
+    width:  100%;
+    margin: 2px;
+    border: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+  
+button {
+    border: none;
+    outline: none;
+    padding: 8px;
+    width: 271px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    background:#FFDBDF ;
+}
+
+button:hover {
+    background: rgba(214, 86, 64, 1)
+}
+
