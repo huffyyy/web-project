@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 2rem;
+  margin: auto;
+  max-width: 500px;
+}
+
+h1 {
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+li.done {
+  text-decoration: line-through;
+  color: gray;
+}
